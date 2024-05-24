@@ -3,7 +3,6 @@
 ## Description
 
 This is the HTML code for a Horiseon website. The website is designed to showcase Horiseon's services in search engine optimization, online reputation management, and social media marketing. This HTML and CSS was refactored to increase accessibility of the webpage. Refactoring of the webpage is crucial for long-term sustainability of the code base.
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
 ## Usage
 
